@@ -45,14 +45,9 @@ namespace LeetCode101
                         return arr;
 
                     }
-
-
                 }
-
             }
             return null;
         }
-
-
     }
 }

@@ -10,8 +10,15 @@ namespace LeetCode101
     {
         static void Main(string[] args)
         {
-            var resultArray = Solution1.TwoSum(new int[] { 3, 2, 4 }, 6);
-            Console.WriteLine("{" + string.Join(",", resultArray) + "}");
+            string[] arrayVal = { "USA", "leetcode", "Google", "FlaG" };
+            bool retVal = false;
+            foreach (var arrayString in arrayVal)
+            {
+              retVal =  Solution520.DetectCapitalUse(arrayString);
+              Console.WriteLine("Given word is {0} - is {1} ", arrayString, retVal);   
+             }
+                   
+            //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
         }
     }
