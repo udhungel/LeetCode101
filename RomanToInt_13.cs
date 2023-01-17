@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode101
 {
-    public class Solution13
+    public class RomanToInt_13
     {
         /*
             I can be placed before V (5) and X (10) to make 4 and 9. 

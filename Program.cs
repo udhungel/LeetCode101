@@ -14,7 +14,7 @@ namespace LeetCode101
             bool retVal = false;
             foreach (var arrayString in arrayVal)
             {
-              retVal =  Solution520.DetectCapitalUse(arrayString);
+              retVal =  DetectCapitalUse_520.DetectCapitalUse(arrayString);
               Console.WriteLine("Given word is {0} - is {1} ", arrayString, retVal);   
              }
                    

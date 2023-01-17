@@ -20,7 +20,7 @@ namespace LeetCode101
 
     //Input: nums = [3,3], target = 6
     //Output: [0,1]
-    public static class Solution1
+    public static class TwoSum_1
     {
         public static int[] TwoSum(int[] nums, int target)
         {

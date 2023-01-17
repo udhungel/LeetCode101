@@ -11,7 +11,7 @@ namespace LeetCode101
 //All letters in this word are capitals, like "USA".
 //All letters in this word are not capitals, like "leetcode".
 //Only the first letter in this word is capital, like "Google".
-    public static class Solution520
+    public static class DetectCapitalUse_520
     {
         public static bool DetectCapitalUse(string word)
         {

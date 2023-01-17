@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode101
 {
-    public class Solution290
+    public class WordPattern_290
     {
 
         public bool WordPattern(string pattern, string s)
