@@ -10,14 +10,16 @@ namespace LeetCode101
     {
         static void Main(string[] args)
         {
-            string[] arrayVal = { "USA", "leetcode", "Google", "FlaG" };
-            bool retVal = false;
-            foreach (var arrayString in arrayVal)
-            {
-              retVal =  DetectCapitalUse_520.DetectCapitalUse(arrayString);
-              Console.WriteLine("Given word is {0} - is {1} ", arrayString, retVal);   
-             }
-                   
+            //string[] arrayVal = { "USA", "leetcode", "Google", "FlaG" };
+            //bool retVal = false;
+            //foreach (var arrayString in arrayVal)
+            //{
+            //  retVal =  DetectCapitalUse_520.DetectCapitalUse(arrayString);
+            //  Console.WriteLine("Given word is {0} - is {1} ", arrayString, retVal);   
+            // }
+
+            RunningSum1DArray_1480.RunningSum(new int[] { 1, 2, 3, 4 });
+
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
         }
