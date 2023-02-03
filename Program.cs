@@ -17,7 +17,7 @@ namespace LeetCode101
             //  retVal =  DetectCapitalUse_520.DetectCapitalUse(arrayString);
             //  Console.WriteLine("Given word is {0} - is {1} ", arrayString, retVal);   
             // }
-            LongestCommonPrefix_14.MaxLength1();
+            PalindromeNumber_9.IsPalindrome();
             RunningSum1DArray_1480.RunningSum(new int[] { 1, 2, 3, 4 });
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
