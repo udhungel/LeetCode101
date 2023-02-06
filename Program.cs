@@ -20,7 +20,9 @@ namespace LeetCode101
             //PalindromeNumber_9.IsPalindrome();
             //RunningSum1DArray_1480.RunningSum(new int[] { 1, 2, 3, 4 });
 
-            RemoveDuplicate_26.RemoveDuplicates();
+            //RemoveDuplicate_26.RemoveDuplicates();
+
+            RemoveElement_27.RemoveElement();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
