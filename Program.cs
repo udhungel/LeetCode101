@@ -21,8 +21,8 @@ namespace LeetCode101
             //RunningSum1DArray_1480.RunningSum(new int[] { 1, 2, 3, 4 });
 
             //RemoveDuplicate_26.RemoveDuplicates();
-
-            RemoveElement_27.RemoveElement();
+            RotateArray_189.Rotate();
+            //MergeTwoSortedList_21.MergeTwoLists();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
