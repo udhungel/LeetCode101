@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ValidParenthesis_20.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />
     <Compile Include="PalindromeNumber_9.cs" />
     <Compile Include="Program.cs" />
