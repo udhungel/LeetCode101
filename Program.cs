@@ -23,7 +23,11 @@ namespace LeetCode101
             //RemoveDuplicate_26.RemoveDuplicates();
             //RotateArray_189.Rotate();
             //MergeTwoSortedList_21.MergeTwoLists();
-            ValidParenthesis_20.IsValid_Parenthesis();
+            //ValidParenthesis_20.IsValid_Parenthesis();
+
+            AddBinary_67.AddBinary();
+
+
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
