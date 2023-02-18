@@ -25,7 +25,7 @@ namespace LeetCode101
             //MergeTwoSortedList_21.MergeTwoLists();
             //ValidParenthesis_20.IsValid_Parenthesis();
 
-            AddBinary_67.AddBinary();
+            LongestSubstring_3.LongestSubstring();
 
 
 
