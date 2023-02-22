@@ -16,12 +16,6 @@ namespace LeetCode101
             //Steps - groupby clause using where filter select the first item 
 
             int result = nums.GroupBy(x => x).Where(x=>x.Count()==1).Select(x=>x.Key).First();
-
-          
-
-
-
-
         }
     }
 }

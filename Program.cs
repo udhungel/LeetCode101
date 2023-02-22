@@ -27,7 +27,9 @@ namespace LeetCode101
 
             //FindMedianSortedArrays_4.FindMedianSortedArrays();
 
-            SingleElementinaSortedArray_540.SingleElementinaSortedArray();
+            // SingleElementinaSortedArray_540.SingleElementinaSortedArray();
+
+            MergeSortedArray.Merge();
 
 
 
