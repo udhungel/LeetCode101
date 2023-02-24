@@ -47,6 +47,7 @@
     <Compile Include="FindMedianSortedArrays_4.cs" />
     <Compile Include="LongestSubstring_3.cs" />
     <Compile Include="MergeSortedArray.cs" />
+    <Compile Include="ReverseIntegar_7.cs" />
     <Compile Include="SingleElementinaSortedArray_540.cs" />
     <Compile Include="ValidParenthesis_20.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />

@@ -29,7 +29,9 @@ namespace LeetCode101
 
             // SingleElementinaSortedArray_540.SingleElementinaSortedArray();
 
-            MergeSortedArray.Merge();
+            //MergeSortedArray.Merge();
+
+            ReverseIntegar_7.ReverseIntegar();
 
 
 
