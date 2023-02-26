@@ -31,8 +31,8 @@ namespace LeetCode101
 
             //MergeSortedArray.Merge();
 
-            ReverseIntegar_7.ReverseIntegar();
-
+            //ReverseIntegar_7.ReverseIntegar();
+            ValidPalindrome_125.ValidPalindrome();
 
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");

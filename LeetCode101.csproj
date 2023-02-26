@@ -49,6 +49,7 @@
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="ReverseIntegar_7.cs" />
     <Compile Include="SingleElementinaSortedArray_540.cs" />
+    <Compile Include="ValidPalindrome_125.cs" />
     <Compile Include="ValidParenthesis_20.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />
     <Compile Include="PalindromeNumber_9.cs" />
