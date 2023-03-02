@@ -33,7 +33,10 @@ namespace LeetCode101
 
             //ReverseIntegar_7.ReverseIntegar();
             //ValidPalindrome_125.ValidPalindrome();
-            PlusOne_66.PlusOne();
+            //PlusOne_66.PlusOne();
+            FindtheIndexoftheFirstOccurrenceinaString_5.FindtheIndexoftheFirstOccurrenceinaString(); 
+                
+
 
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");

@@ -77,6 +77,7 @@
     <Compile Include="FindMedianSortedArrays_4.cs" />
     <Compile Include="LongestSubstring_3.cs" />
     <Compile Include="MergeSortedArray.cs" />
+    <Compile Include="PalindromicSubstring_5.cs" />
     <Compile Include="PlusOne_66.cs" />
     <Compile Include="ReverseIntegar_7.cs" />
     <Compile Include="SingleElementinaSortedArray_540.cs" />
