@@ -34,8 +34,10 @@ namespace LeetCode101
             //ReverseIntegar_7.ReverseIntegar();
             //ValidPalindrome_125.ValidPalindrome();
             //PlusOne_66.PlusOne();
-            FindtheIndexoftheFirstOccurrenceinaString_5.FindtheIndexoftheFirstOccurrenceinaString(); 
-                
+            //FindtheIndexoftheFirstOccurrenceinaString_5.FindtheIndexoftheFirstOccurrenceinaString(); 
+
+            TopKFrequent_347.TopKFrequent();
+
 
 
 

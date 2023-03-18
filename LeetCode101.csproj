@@ -75,6 +75,7 @@
   <ItemGroup>
     <Compile Include="AddBinary_67.cs" />
     <Compile Include="FindMedianSortedArrays_4.cs" />
+    <Compile Include="Generate Parentheses_22.cs" />
     <Compile Include="LongestSubstring_3.cs" />
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="PalindromicSubstring_5.cs" />
