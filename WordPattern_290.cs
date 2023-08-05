@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace LeetCode101
 {
-    public class WordPattern_290
+    public static class WordPattern_290
     {
 
-        public bool WordPattern(string pattern, string s)
+        public static bool WordPattern(string pattern = "abba" , string s = "dog cat cat dog")
         {
             var strVal = getPattern(s.Split(' ').Where(x => !string.IsNullOrWhiteSpace(x)));
 
@@ -26,6 +26,11 @@ namespace LeetCode101
 
         private static string getPattern(IEnumerable<string> strVals)
         {
+            var test = strVals.Select((x, i) => new { val = x, idx = i });
+
+            var test1 = strVals.Select((x, i) => new { val = x, idx = i }).GroupBy(x => x.val);
+
+
             var grpVals = strVals.Select((x, i) => new { val = x, idx = i })
                                  .GroupBy(x => x.val).ToDictionary(x => x.Key, x => x.First().idx);
 

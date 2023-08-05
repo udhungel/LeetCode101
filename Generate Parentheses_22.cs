@@ -1,11 +1,4 @@
-﻿using LanguageExt.TypeClasses;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
 
 namespace LeetCode101
 {
@@ -29,14 +22,25 @@ namespace LeetCode101
             var result = nums.GroupBy(x => x)
                              .ToDictionary(x => x.Key, x => x.Count())
                              .OrderByDescending(x => x.Value)
-                             .Select(x => x.Key)
+                             .Select(x => x.Key) 
                              .Take(2)
-                             .ToArray();
-          
+                              .ToArray();
+
+            var result4 = nums.GroupBy(x => x)
+                             .ToDictionary(x => x.Key, x => x.Count());
+
+            var result3 = nums.GroupBy(x => x)
+                           .ToDictionary(x => x.Key, x => x.Count()).OrderByDescending(x => x.Value);
+
+            var result1 = nums.GroupBy(x => x)
+                             .Select(x => new { Key1 = x.Key, Count = x.Count() })
+                             .OrderByDescending(x=>x.Key1);
+                             
 
 
-           
-        return new int[] { };
+
+
+            return new int[] { };
         }
     }
 }

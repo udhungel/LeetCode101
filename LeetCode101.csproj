@@ -78,6 +78,7 @@
     <Compile Include="Generate Parentheses_22.cs" />
     <Compile Include="LongestSubstring_3.cs" />
     <Compile Include="MergeSortedArray.cs" />
+    <Compile Include="MissingNumber.cs" />
     <Compile Include="PalindromicSubstring_5.cs" />
     <Compile Include="PlusOne_66.cs" />
     <Compile Include="ReverseIntegar_7.cs" />

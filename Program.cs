@@ -36,8 +36,8 @@ namespace LeetCode101
             //PlusOne_66.PlusOne();
             //FindtheIndexoftheFirstOccurrenceinaString_5.FindtheIndexoftheFirstOccurrenceinaString(); 
 
-            TopKFrequent_347.TopKFrequent();
-
+            // TopKFrequent_347.TopKFrequent();
+            MissingNumber.Missing_Number();
 
 
 
