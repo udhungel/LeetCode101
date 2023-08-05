@@ -81,6 +81,7 @@
     <Compile Include="MissingNumber.cs" />
     <Compile Include="PalindromicSubstring_5.cs" />
     <Compile Include="PlusOne_66.cs" />
+    <Compile Include="RemoveDuplicatesFromSortedArrayII.cs" />
     <Compile Include="ReverseIntegar_7.cs" />
     <Compile Include="SingleElementinaSortedArray_540.cs" />
     <Compile Include="SingleNumber_136.cs" />
