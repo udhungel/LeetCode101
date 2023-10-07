@@ -38,9 +38,12 @@ namespace LeetCode101
 
             // TopKFrequent_347.TopKFrequent();
             //MissingNumber.Missing_Number();
-            RemoveDuplicatesFromSortedArrayII.RemoveDuplicates();
+            //RemoveDuplicatesFromSortedArrayII.RemoveDuplicates();
 
+            //MajorityElement.MajorityElements();
 
+            LengthofLastWord_58.GetCountLastWord();
+           // BestTimeToBuyandSellStock_121.Maxprofit();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
