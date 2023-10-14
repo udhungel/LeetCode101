@@ -42,8 +42,10 @@ namespace LeetCode101
 
             //MajorityElement.MajorityElements();
 
-            LengthofLastWord_58.GetCountLastWord();
-           // BestTimeToBuyandSellStock_121.Maxprofit();
+            FirstUniqueCharacterinaString_387.FirstUniqChar();
+
+            //LengthofLastWord_58.GetCountLastWord();
+            // BestTimeToBuyandSellStock_121.Maxprofit();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
             Console.ReadLine();
