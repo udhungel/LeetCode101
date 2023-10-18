@@ -74,6 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddBinary_67.cs" />
+    <Compile Include="ContainsDuplicate_217.cs" />
     <Compile Include="FindMedianSortedArrays_4.cs" />
     <Compile Include="FirstUniqueCharacterinaString_387.cs" />
     <Compile Include="Generate Parentheses_22.cs" />

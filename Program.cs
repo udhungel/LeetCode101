@@ -49,6 +49,8 @@ namespace LeetCode101
             // BestTimeToBuyandSellStock_121.Maxprofit();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
+
+            ContainsDuplicate_217.ContainsDuplicate();
             Console.ReadLine();
         }
     }
