@@ -42,7 +42,8 @@ namespace LeetCode101
 
             //MajorityElement.MajorityElements();
 
-            FirstUniqueCharacterinaString_387.FirstUniqChar();
+            //FirstUniqueCharacterinaString_387.FirstUniqChar();
+            IsSubsequence_392.IsSubsequence();
 
             //LengthofLastWord_58.GetCountLastWord();
             // BestTimeToBuyandSellStock_121.Maxprofit();
