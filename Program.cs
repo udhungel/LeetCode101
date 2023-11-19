@@ -43,14 +43,18 @@ namespace LeetCode101
             //MajorityElement.MajorityElements();
 
             //FirstUniqueCharacterinaString_387.FirstUniqChar();
-            IsSubsequence_392.IsSubsequence();
+            //IsSubsequence_392.IsSubsequence();
 
             //LengthofLastWord_58.GetCountLastWord();
             // BestTimeToBuyandSellStock_121.Maxprofit();
 
             //Console.WriteLine("{" + string.Join(",", resultArray) + "}");
 
-            ContainsDuplicate_217.ContainsDuplicate();
+            // ContainsDuplicate_217.ContainsDuplicate();
+
+            //ContainsDuplicateII_219.ContainsDuplicateII();  
+
+            ReverseString_344.GetReverseString();
             Console.ReadLine();
         }
     }
