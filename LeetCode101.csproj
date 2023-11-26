@@ -78,6 +78,7 @@
     <Compile Include="ContainsDuplicate_217.cs" />
     <Compile Include="FindMedianSortedArrays_4.cs" />
     <Compile Include="FirstUniqueCharacterinaString_387.cs" />
+    <Compile Include="FizzBuzz_412.cs" />
     <Compile Include="Generate Parentheses_22.cs" />
     <Compile Include="IsSubsequence_392.cs" />
     <Compile Include="LengthofLastWord.cs" />

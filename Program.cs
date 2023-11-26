@@ -54,7 +54,9 @@ namespace LeetCode101
 
             //ContainsDuplicateII_219.ContainsDuplicateII();  
 
-            ReverseString_344.GetReverseString();
+            //ReverseString_344.GetReverseString();
+
+            FizzBuzz_412.FizzBuzz();
             Console.ReadLine();
         }
     }
