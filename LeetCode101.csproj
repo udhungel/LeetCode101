@@ -76,6 +76,7 @@
     <Compile Include="AddBinary_67.cs" />
     <Compile Include="ContainsDuplicateII_219.cs" />
     <Compile Include="ContainsDuplicate_217.cs" />
+    <Compile Include="ExcelSheetColumnNumber_171.cs" />
     <Compile Include="FindMedianSortedArrays_4.cs" />
     <Compile Include="FirstUniqueCharacterinaString_387.cs" />
     <Compile Include="FizzBuzz_412.cs" />
@@ -86,6 +87,7 @@
     <Compile Include="MajorityElement.cs" />
     <Compile Include="MergeSortedArray.cs" />
     <Compile Include="MissingNumber.cs" />
+    <Compile Include="MoveZeroes_283.cs" />
     <Compile Include="PalindromicSubstring_5.cs" />
     <Compile Include="PlusOne_66.cs" />
     <Compile Include="RemoveDuplicatesFromSortedArrayII.cs" />
@@ -93,6 +95,7 @@
     <Compile Include="ReverseString_344.cs" />
     <Compile Include="SingleElementinaSortedArray_540.cs" />
     <Compile Include="SingleNumber_136.cs" />
+    <Compile Include="ValidAnagram_242.cs" />
     <Compile Include="ValidPalindrome_125.cs" />
     <Compile Include="ValidParenthesis_20.cs" />
     <Compile Include="LongestCommonPrefix_14.cs" />
