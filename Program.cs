@@ -56,7 +56,15 @@ namespace LeetCode101
 
             //ReverseString_344.GetReverseString();
 
-            FizzBuzz_412.FizzBuzz();
+            //FizzBuzz_412.FizzBuzz();
+
+            //ExcelSheetColumnNumber_171.GetExcelSheetColumnNumber_171();
+
+            //MoveZeroes_283.MoveZeroes();
+
+            ValidAnagram_242.GetValidAnagram();
+
+            ClimbingStairs_70.ClimingStairs(5);
             Console.ReadLine();
         }
     }
