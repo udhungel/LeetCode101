@@ -56,6 +56,8 @@ namespace LeetCode101
 
             //ReverseString_344.GetReverseString();
 
+            ClimbingStairs_70.ClimingStairs(8);
+
             FizzBuzz_412.FizzBuzz();
             Console.ReadLine();
         }
