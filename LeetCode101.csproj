@@ -82,6 +82,7 @@
     <Compile Include="FizzBuzz_412.cs" />
     <Compile Include="Generate Parentheses_22.cs" />
     <Compile Include="GetExcelSheetColumnNumber_171.cs" />
+    <Compile Include="IntersectionofTwoArraysII_349.cs" />
     <Compile Include="IsSubsequence_392.cs" />
     <Compile Include="LengthofLastWord.cs" />
     <Compile Include="LongestSubstring_3.cs" />
