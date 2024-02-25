@@ -58,9 +58,9 @@ namespace LeetCode101
 
             //ClimbingStairs_70.ClimingStairs(8);
 
-            IntersectionofTwoArraysII_349.IntersectionofTwoArraysII();
-
-            FizzBuzz_412.FizzBuzz();
+            //IntersectionofTwoArraysII_349.IntersectionofTwoArraysII();
+            ClimbingStairs_70.ClimingStairs(6);
+            //FizzBuzz_412.FizzBuzz();
             Console.ReadLine();
         }
     }
