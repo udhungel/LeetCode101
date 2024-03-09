@@ -59,8 +59,10 @@ namespace LeetCode101
             //ClimbingStairs_70.ClimingStairs(8);
 
             //IntersectionofTwoArraysII_349.IntersectionofTwoArraysII();
-            ClimbingStairs_70.ClimingStairs(6);
+            //ClimbingStairs_70.ClimingStairs(6);
             //FizzBuzz_412.FizzBuzz();
+
+            BestTimeToBuyAndSellStock_121.GetBestTimeToBuyAndSellStock();
             Console.ReadLine();
         }
     }

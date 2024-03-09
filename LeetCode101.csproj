@@ -74,6 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddBinary_67.cs" />
+    <Compile Include="BestTimeToBuyAndSellStock_121.cs" />
     <Compile Include="ClimbingStairs_70.cs" />
     <Compile Include="ContainsDuplicateII_219.cs" />
     <Compile Include="ContainsDuplicate_217.cs" />
