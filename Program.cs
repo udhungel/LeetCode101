@@ -62,7 +62,8 @@ namespace LeetCode101
             //ClimbingStairs_70.ClimingStairs(6);
             //FizzBuzz_412.FizzBuzz();
 
-            BestTimeToBuyAndSellStock_121.GetBestTimeToBuyAndSellStock();
+            //BestTimeToBuyAndSellStock_121.GetBestTimeToBuyAndSellStock();
+            Valid_Anagram_242.GetValid_Anagram();
             Console.ReadLine();
         }
     }

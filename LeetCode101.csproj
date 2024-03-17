@@ -110,6 +110,7 @@
     <Compile Include="RunningSum1DArray_1480.cs" />
     <Compile Include="TwoSum_1.cs" />
     <Compile Include="RomanToInt_13.cs" />
+    <Compile Include="Valid_Anagram_242.cs" />
     <Compile Include="WordPattern_290.cs" />
     <Compile Include="DetectCapitalUse_520.cs" />
   </ItemGroup>
